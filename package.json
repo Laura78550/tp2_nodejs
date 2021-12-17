@@ -1,0 +1,24 @@
+{
+  "name": "laura-p-first-package-test",
+  "version": "2.0.0",
+  "description": "first package test for class",
+  "main": "entrypoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Laura78550/tp2_nodejs.git"
+  },
+  "author": "Laura Pineau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laura78550/tp2_nodejs/issues"
+  },
+  "homepage": "https://github.com/Laura78550/tp2_nodejs#readme",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "capitalize": "^2.0.4",
+    "slugify": "^1.6.4"
+  }
+}
